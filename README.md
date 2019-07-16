@@ -1,2 +1,2 @@
 # forge
-TOML based task runner and build system
+YAML based task runner and build system
